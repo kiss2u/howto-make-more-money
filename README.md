@@ -10,6 +10,11 @@ the repo is not applicable to foreigners
 
 ![](mindmap.png)
 
+新增：网课制作思维导图 [高清PDF下载](https://share.weiyun.com/78SWCYli) [视频课程](http://next.ftqq.com/18)
+
+![](class.png)
+
+
 - 关注作者：
   - 微博(主要为技术分享):[@Easy](https://weibo.com/easy) 
   - Twitter（主要转发妹子和猫）：[Easychen](https://twitter.com/easychen/)
@@ -20,5 +25,6 @@ the repo is not applicable to foreigners
 如果你觉得这本小书对你有所帮助的话，请分享给身边的程序员，谢谢。
 
 ## 更新日志
+- 2020/10/17：新增网课制作思维导图
 - 2020/08/27：修正资产评分标准，更新网易云课堂分成比例的信息。
 - 2020/04/07：全面重写为一本小书。
