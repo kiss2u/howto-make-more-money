@@ -2,9 +2,9 @@
 
 the repo is not applicable to foreigners
 
-本系列文章会持续更新，watch repo，及时获取更新信息。
+本系列文章会持续更新，微信扫码订阅主题，可第一时间获取更新信息。
 
-![](watch.png)
+![](qrcode.jpeg)
 
 ![](cover.png)
 
